@@ -1,0 +1,3 @@
+#!/bin/sh
+"$(dirname "$0")/../MacOS/resources/cli/atom.sh" "$@"
+echo
